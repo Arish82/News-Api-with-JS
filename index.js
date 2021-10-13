@@ -123,5 +123,5 @@ xhr.onload= function(){
   target[0].innerHTML=html;
 
 }
-xhr.open('GET','https://newsapi.org/v2/top-headlines?country=in&apiKey=<API KEY>',true);
+xhr.open('GET','https://newsapi.org/v2/top-headlines?country=in&apiKey=bbd905525ebb46308ad8022d6b27b8e2',true);
 xhr.send();
